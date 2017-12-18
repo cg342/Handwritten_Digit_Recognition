@@ -1,6 +1,6 @@
 '''
-COSI 101A HW4
 Chenxi Gao
+
 To test on a path with images:
 need to have annotation.txt file under the current path
 to evaluate the accuracy of the model
@@ -15,6 +15,7 @@ http://niektemme.com/
 https://www.tensorflow.org/versions/master/how_tos/variables/index.html
 https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/mnist_softmax_xla.py
 '''
+
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 
