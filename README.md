@@ -1,7 +1,7 @@
-Handwritten_Digit_Recognition
+###Handwritten_Digit_Recognition
 
 Recognizes handwritten digits 1-9
 
-Required directory: images with handwritten digits (black background)
+_Required directory: images with handwritten digits (black background)_
 
-Developed in Python with tensorflow package
+Developed in Python with __tensorflow__ package
